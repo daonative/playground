@@ -65,3 +65,4 @@ COIN_MARKETCAP_API_KEY=""
 - **[Tailwind UI](https://tailwindcss.com/docs)**
 - **[Tailwind UI Components](https://tailwindui.com/)**
 - **[Tailwind Community Components](https://tailwindcomponents.com/)**
+# playground
